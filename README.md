@@ -16,6 +16,7 @@ E-commerce platforms generate massive volumes of fragmented transactional data. 
 - **Version Control**: Git & GitHub
 
 ## Project Structure
+```text
 .
 ├── notebooks/
 │   └── Olist_Ecommerce_PySpark_Pipeline.ipynb  # Main transformation logic
